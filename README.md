@@ -17,7 +17,7 @@ This repository is dedicated to implementing and exploring a stock breakout stra
 - Development of an algorithm for automated trading, allowing the code to autonomously execute buy and sell orders based on the predicted breakout signals.
 
 5. **Documentation and Instructions:**
- Comprehensive documentation providing clear instructions on how to use the code, customize parameters, and interpret results.
+- Comprehensive documentation providing clear instructions on how to use the code, customize parameters, and interpret results.
 
 ## Disclaimer
 
