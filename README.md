@@ -19,6 +19,25 @@ This repository is dedicated to implementing and exploring a stock breakout stra
 5. **Documentation and Instructions:**
 - Comprehensive documentation providing clear instructions on how to use the code, customize parameters, and interpret results.
 
+## Getting Started
+1. **Clone the Repository:**
+
+   git clone git@github.com:MontgomeryG/g3p2.git
+
+2. **Install Dependencies:**
+
+   pip install -r requirements.txt
+
+3. **Explore Breakout Strategy:**
+- Navigate to the breakout strategy directory and run the example code to understand the basic breakout strategy implementation.
+
+4. **Train Machine Learning Model:**
+- Use provided scripts to train a supervised machine learning model on historical data and evaluate its performance.
+
+5. **Deploy Automated Trading Algorithm:**
+- Integrate the breakout strategy and machine learning model into an automated trading algorithm. Follow deployment instructions to execute buy and sell orders
+
+
 ## Disclaimer
 
 Trading and investing involve significant risk. The code provided in this repository is for educational purposes only and should not be considered financial advice. Use it at your own risk and discretion.
