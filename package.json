@@ -1,0 +1,37 @@
+{
+  "name": "g3p2",
+  "version": "1.0.0",
+  "description": "Algorithmic Trading Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MontgomeryG/g3p2.git"
+  },
+  "keywords": [
+    "Algorithmic Trading Bot",
+    "Algorithmic Trading App",
+    "Algorithmic Trading Application",
+    "Break Out Algorithmic Trading Bot",
+    "Break out Algorithmic Trading Application",
+    "ML Algorithmic Trading",
+    "Machine Learning Algorithmic Trading"
+  ],
+  "author": "Montgomery G., Adrian M., Alex H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MontgomeryG/g3p2/issues"
+  },
+  "homepage": "https://github.com/MontgomeryG/g3p2#readme",
+  "dependencies": {
+    "django": "^1.0.0",
+    "jinja2": "^0.0.1",
+    "react-router-dom": "^6.21.2",
+    "semver": "^7.5.4"
+  },
+  "devDependencies": {
+    "browserslist": "^4.22.2"
+  }
+}
