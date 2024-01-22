@@ -1,4 +1,4 @@
-# Stock Breakout Strategy and Machine Learning Model Repository
+# Buy High Sell Low Strategy and Machine Learning Model Repository
 Group 3 Project 2
 ## Overview
 This repository is dedicated to implementing and exploring a stock breakout strategy for predicting optimal entry and exit points in financial markets. The project aims to leverage historical price data to develop a robust trading algorithm and deploy it to autonomously execute buy and sell orders.
